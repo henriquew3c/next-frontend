@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Description
+
+<p align="center">
+  <img src="assets/img/imersion-fulll-cycle.svg" alt="Logo" />
+</p>
+
+Golang repository (application front-end).
+
+## Requirements
+
+It is necessary to integrate with Google Maps, for this, it is necessary to create an API key on Google Cloud Platform. To do this, follow the steps:
+
+1. Access [Google Cloud Platform](https://cloud.google.com/).
+2. Create new project.
+3. Active one Places, Directions and Maps JavaScript Api of Google Maps.
+4. Save generated API Key.
+
 ## Getting Started
 
 First, run the development server:
